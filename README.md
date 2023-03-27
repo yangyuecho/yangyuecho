@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<picture>
-  <img align="left" width="400" src="https://github-readme-stats-adam.vercel.app/api?username=yangyuecho&show_icons=true&count_private=true" alt="stats">
-</picture>
+<img align="right" src="https://github-readme-stats-adam.vercel.app/api?username=yangyuecho&show_icons=true&count_private=true" alt="stats">
 
 <!--
 **yangyuecho/yangyuecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
